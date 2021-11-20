@@ -1,7 +1,7 @@
 {	
 	"polls": 
 	[
-		{ "id": 1, "expiration_date": "2021-12-31 00:00:00", "title", "qui est esse", "description": "est rerum tempore vitae equi sint nihil nisi nulla"},
+		{ "id": 1, "expiration_date": "2021-12-31 00:00:00", "title": "qui est esse", "description": "est rerum tempore vitae equi sint nihil nisi nulla"},
 		{ "id": 2, "expiration_date": "2021-12-01 00:00:00", "title": "ea molestias quasi exercitationem repellat qui ipsa sit aut",  "body": "et iusto sed quo iurevoluptatem occaecati omnis eligendi aut advoluptatem doloribus vel accusantium quis pariatur molestiae porro eius odio et labore et velit aut"},
 		{ "id": 3, "expiration_date": "2021-11-30 00:00:00", "title": "ea molestias sit aut", "body": "et iusto sed quo iure voluptatem occaecati omnis eligendi aut ad et labore et velit aut"}
 	]
